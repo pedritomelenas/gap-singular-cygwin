@@ -62,5 +62,11 @@ Install git, autoconf, wget
 
 Get the dev version from the [gap](https://github.com/gap-system/gap) repository, and follow the instructions given there (autoconf+configure+make+make bootstrap-pkg-minimal)
 
+## If you want a jupyter kernel
+
+- Install jupyter under cygwin (you can follow these [instructions](https://www.scivision.co/install-ipython-jupyter-in-cygwin/))
+
+- Then follow the instructions for installing the [gap kernel](https://github.com/gap-packages/jupyter-kernel-gap)
+
 
 
