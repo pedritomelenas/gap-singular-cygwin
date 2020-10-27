@@ -1,6 +1,8 @@
 # gap-singular-cygwin
 *Getting singular and gap working together in cygwin*
 
+It is much better to use [WSL](https://docs.microsoft.com/es-es/windows/wsl/install-win10) instead.
+
 Download and install [cygwin](https://cygwin.com/install.html) 
 
 Select the following packages
